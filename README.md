@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm <a href="https://www.linkedin.com/in/tonmoy-shivam-9b4447216/"> Tonmoy Shivam </a></font></h1>
+<h1 align="center"><font face="Arial">Hi 👋, I'm <a href="https://www.linkedin.com/in/tonmoy-shivam-9b4447216/"> Taanmay Shivam </a></font></h1>
 <h3 align="center"><font face="Arial">I am a passionate DevOps Engineer from India, working on Cloud and DevOps.</font></h3>
 
 
